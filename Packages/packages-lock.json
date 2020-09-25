@@ -69,7 +69,9 @@
       "version": "file:Unity-Utils",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {}
+      "dependencies": {
+        "com.unity.textmeshpro": "2.1.1"
+      }
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
