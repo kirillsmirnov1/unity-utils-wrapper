@@ -65,7 +65,7 @@
         "com.unity.modules.ui": "1.0.0"
       }
     },
-    "trulden.me.t.unity-utils": {
+    "trulden.unity-utils": {
       "version": "file:Unity-Utils",
       "depth": 0,
       "source": "embedded",
