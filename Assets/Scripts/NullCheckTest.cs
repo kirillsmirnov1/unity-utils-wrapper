@@ -9,6 +9,6 @@ namespace DefaultNamespace
         [SerializeField] private Camera cam;
         public OtherScript otherScript;
 
-        private void OnValidate() => CheckNullFields(this);
+        private void OnValidate() => this.CheckNullFields();
     }
 }
