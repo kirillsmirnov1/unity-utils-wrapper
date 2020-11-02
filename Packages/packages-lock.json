@@ -77,6 +77,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "trulden.unity-game-systems": {
+      "version": "file:UnityGameSystems",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "trulden.unity-utils": {
       "version": "file:Unity-Utils",
       "depth": 0,
