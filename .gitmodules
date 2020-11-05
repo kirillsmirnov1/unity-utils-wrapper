@@ -10,3 +10,9 @@
 [submodule "Packages/Extenject-Utils"]
 	path = Packages/Extenject-Utils
 	url = https://github.com/kirillsmirnov1/Extenject-Utils.git
+[submodule "UnityGameSystems"]
+	path = UnityGameSystems
+	url = https://github.com/kirillsmirnov1/Unity-Game-Systems.git
+[submodule "Packages/UnityGameSystems"]
+	path = Packages/UnityGameSystems
+	url = https://github.com/kirillsmirnov1/Unity-Game-Systems.git
