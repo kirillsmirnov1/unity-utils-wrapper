@@ -4,3 +4,6 @@
 [submodule "Packages/2D-Utils"]
 	path = Packages/2D-Utils
 	url = https://github.com/kirillsmirnov1/unity-2d-utils.git
+[submodule "Packages/CircularScrollingRoulette"]
+	path = Packages/CircularScrollingRoulette
+	url = https://github.com/kirillsmirnov1/circular-scrolling-roulette.git
