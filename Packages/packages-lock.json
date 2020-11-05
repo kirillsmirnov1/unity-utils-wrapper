@@ -77,14 +77,6 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "trulden.me.t.circularscrollingroulette": {
-      "version": "file:CircularScrollingRoulette",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.textmeshpro": "2.1.1"
-      }
-    },
     "trulden.unity-game-systems": {
       "version": "file:UnityGameSystems",
       "depth": 0,
