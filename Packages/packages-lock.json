@@ -65,12 +65,6 @@
         "com.unity.modules.ui": "1.0.0"
       }
     },
-    "trulden.2d-utils": {
-      "version": "file:2D-Utils",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "trulden.extenject-utils": {
       "version": "file:Extenject-Utils",
       "depth": 0,
