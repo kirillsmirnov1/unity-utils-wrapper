@@ -71,12 +71,6 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "trulden.extenject-utils": {
-      "version": "file:Extenject-Utils",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "trulden.me.t.circularscrollingroulette": {
       "version": "file:CircularScrollingRoulette",
       "depth": 0,
