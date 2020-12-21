@@ -542,13 +542,12 @@ MonoBehaviour:
   centeredContentId: 0
   entryPrefab: {fileID: 2820467745906574108, guid: 4b38ee4e6c4effa489b70d5d442527cb,
     type: 3}
-  numberOfEntries: 5
+  numberOfEntries: 7
   rouletteEntries: []
   onEntryClick:
     m_PersistentCalls:
       m_Calls: []
   controlButtons: []
-  startShift: 2
   entryGapFactor: 6
   entrySlidingFrames: 35
   entrySlidingSpeedFactor: 0.2
@@ -558,6 +557,7 @@ MonoBehaviour:
   radius: 1
   angleStart: 0
   radPerEntry: 0
+  blockInputOnLimitedData: 1
   numOfUpperDisabledEntries: 0
   numOfLowerDisabledEntries: 0
   scaleEdgeObjects: 0
@@ -583,7 +583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e30a9142c21486cacdba4a09d55ee7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data: 0c000000050000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b0000000b000000
+  data: 0c000000050000000b0000000b0000000b0000000b0000000b0000000b000000
 --- !u!1 &1734135000
 GameObject:
   m_ObjectHideFlags: 0
