@@ -234,7 +234,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &723485067
 RectTransform:
   m_ObjectHideFlags: 0
@@ -252,7 +252,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 77.69}
-  m_SizeDelta: {x: 0, y: 1288.12}
+  m_SizeDelta: {x: 978.04034, y: 1288.12}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &723485068
 MonoBehaviour:
@@ -542,12 +542,12 @@ MonoBehaviour:
   rouletteType: 0
   controlMode: 4
   alignMiddle: 1
-  direction: 0
+  direction: 2
   rouletteBank: {fileID: 958911317}
   centeredContentId: 0
   entryPrefab: {fileID: 2820467745906574108, guid: 4b38ee4e6c4effa489b70d5d442527cb,
     type: 3}
-  numberOfEntries: 11
+  numberOfEntries: 6
   rouletteEntries: []
   onEntryClick:
     m_PersistentCalls:
@@ -559,7 +559,7 @@ MonoBehaviour:
   rouletteCurvature: 0
   positionAdjust: -0.7
   centerEntryScaleRatio: 0.32
-  radius: 100
+  radius: 300
   angleStart: 0
   radPerEntry: 0
   blockInputOnLimitedData: 1
@@ -585,10 +585,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 958911314}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1e30a9142c21486cacdba4a09d55ee7c, type: 3}
+  m_Script: {fileID: 11500000, guid: e9d9c76546ee41ba86926bf12bdfed75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data: 0100000002000000030000000400000005000000060000000700000008000000090000000a000000
+  sprites:
+  - {fileID: 21300000, guid: a0d6df8bbd7940648bd860d436a3324c, type: 3}
+  - {fileID: 21300000, guid: 0de6b5f7c3928824882f936f90851990, type: 3}
+  - {fileID: 21300000, guid: ce2fac01782b8974db6c7ffaf92e658d, type: 3}
+  - {fileID: 21300000, guid: c24f0ae7ede4ec94a91487809ce90c94, type: 3}
+  - {fileID: 21300000, guid: f8be6c2800f7fc4499df92bb660bd47e, type: 3}
+  - {fileID: 21300000, guid: a2dde1744b606554cae776b1783c7bee, type: 3}
 --- !u!1 &1734135000
 GameObject:
   m_ObjectHideFlags: 0
