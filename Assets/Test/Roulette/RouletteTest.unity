@@ -43,7 +43,7 @@ RenderSettings:
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 11
+  serializedVersion: 12
   m_GIWorkflowMode: 1
   m_GISettings:
     serializedVersion: 2
@@ -98,7 +98,7 @@ LightmapSettings:
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
-  m_UseShadowmask: 1
+  m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -118,6 +118,8 @@ NavMeshSettings:
     manualTileSize: 0
     tileSize: 256
     accuratePlacement: 0
+    maxJobWorkers: 0
+    preserveTilesOutsideBounds: 0
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
@@ -197,6 +199,7 @@ Light:
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
   m_UseBoundingSphereOverride: 0
+  m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
 --- !u!4 &117810895
@@ -280,6 +283,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -443,6 +447,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
 --- !u!223 &869738556
 Canvas:
   m_ObjectHideFlags: 0
@@ -493,8 +498,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 958911315}
-  - component: {fileID: 958911316}
   - component: {fileID: 958911317}
+  - component: {fileID: 958911316}
   m_Layer: 0
   m_Name: Roulette
   m_TagString: Untagged
@@ -534,7 +539,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47a7275e2dd6d454e94db4192a26173a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rouletteType: 1
+  rouletteType: 0
   controlMode: 4
   alignMiddle: 1
   direction: 0
@@ -542,7 +547,7 @@ MonoBehaviour:
   centeredContentId: 0
   entryPrefab: {fileID: 2820467745906574108, guid: 4b38ee4e6c4effa489b70d5d442527cb,
     type: 3}
-  numberOfEntries: 7
+  numberOfEntries: 11
   rouletteEntries: []
   onEntryClick:
     m_PersistentCalls:
@@ -554,7 +559,7 @@ MonoBehaviour:
   rouletteCurvature: 0
   positionAdjust: -0.7
   centerEntryScaleRatio: 0.32
-  radius: 1
+  radius: 100
   angleStart: 0
   radPerEntry: 0
   blockInputOnLimitedData: 1
@@ -583,7 +588,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e30a9142c21486cacdba4a09d55ee7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data: 0c000000050000000b0000000b0000000b0000000b0000000b0000000b000000
+  data: 0100000002000000030000000400000005000000060000000700000008000000090000000a000000
 --- !u!1 &1734135000
 GameObject:
   m_ObjectHideFlags: 0
