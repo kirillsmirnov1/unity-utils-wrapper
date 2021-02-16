@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b78adedf9dbc4bc69d1914ec6348055c, type: 3}
-  m_Name: SaveableInt
+  m_Script: {fileID: 11500000, guid: 9680088320bf4fa2a9905f22ad2af76c, type: 3}
+  m_Name: Int Array Variable
   m_EditorClassIdentifier: 
-  value: 55
+  value: 68a493bbe9010000000000000000000000000000
   save: 1
-  logSave: 0
+  logSave: 1
