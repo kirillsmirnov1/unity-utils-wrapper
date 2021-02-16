@@ -440,6 +440,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 932052708}
+  - component: {fileID: 932052707}
   m_Layer: 0
   m_Name: savebles
   m_TagString: Untagged
@@ -447,6 +448,23 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &932052707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 932052706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f83024a994dd447bb2ee9dab5c4b6e71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  variables:
+  - {fileID: 11400000, guid: b780e9dde68c1f44db8cad88ebd6657f, type: 2}
+  - {fileID: 11400000, guid: df11a17168dcc354baac00ddc5a1502c, type: 2}
+  - {fileID: 11400000, guid: 640365d210e60d44094fe6865ca79e7d, type: 2}
+  - {fileID: 11400000, guid: d71efa4e507543842be044c8b5ba24d6, type: 2}
 --- !u!4 &932052708
 Transform:
   m_ObjectHideFlags: 0
@@ -455,7 +473,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 932052706}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 545.782, y: 985.0551, z: -905.75745}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -513,7 +531,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefix: 
   postfix: 
-  variable: {fileID: 11400000, guid: df11a17168dcc354baac00ddc5a1502c, type: 2}
+  variable: {fileID: 11400000, guid: d71efa4e507543842be044c8b5ba24d6, type: 2}
 --- !u!114 &1421011018
 MonoBehaviour:
   m_ObjectHideFlags: 0
