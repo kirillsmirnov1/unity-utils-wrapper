@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b78adedf9dbc4bc69d1914ec6348055c, type: 3}
   m_Name: _saveInt
   m_EditorClassIdentifier: 
-  value: 0
+  value: 329
   save: 1
   logSave: 0
   defaultValue: {fileID: 11400000, guid: 98c9c80c668665a4c8b8f88b95e10670, type: 2}
