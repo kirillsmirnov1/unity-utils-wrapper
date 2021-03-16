@@ -7,8 +7,15 @@ namespace DefaultNamespace
     public class VariableInjectTest : MonoBehaviour
     {
         [SerializeField] private CanvasVariable canvasVariable;
+        [SerializeField] private GameObjectVariable gameObjectVariable;
+        
+        private void Awake()
+        {
+            TryToCreateAnObjectOnInjectedCanvas();
+            TryToRenameInjectedGameObject();
+        }
 
-        private void Awake() => TryToCreateAnObjectOnInjectedCanvas();
+        private void TryToRenameInjectedGameObject() => gameObjectVariable.Value.name = "✨RENAMED INJECTED GAME OBJECT";
 
         private void TryToCreateAnObjectOnInjectedCanvas()
         {
