@@ -16,3 +16,6 @@
 [submodule "Packages/UnityGameSystems"]
 	path = Packages/UnityGameSystems
 	url = https://github.com/kirillsmirnov1/Unity-Game-Systems.git
+[submodule "Packages/Joysticks"]
+	path = Packages/Joysticks
+	url = https://github.com/kirillsmirnov1/Joysticks.git

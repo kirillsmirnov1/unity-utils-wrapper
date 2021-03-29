@@ -91,6 +91,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "trulden.joysticks": {
+      "version": "file:Joysticks",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "trulden.me.t.circularscrollingroulette": {
       "version": "file:CircularScrollingRoulette",
       "depth": 0,
