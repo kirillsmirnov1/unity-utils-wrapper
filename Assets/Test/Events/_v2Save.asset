@@ -15,4 +15,5 @@ MonoBehaviour:
   value: {x: 4, y: 6}
   save: 1
   logSave: 0
-  defaultValue: {fileID: 11400000, guid: 9cc328dddb57a2245baab9bd860790e2, type: 2}
+  defaultValue: {x: 4, y: 20}
+  guid: 640365d210e60d44094fe6865ca79e7d

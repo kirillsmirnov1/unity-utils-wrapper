@@ -13,8 +13,9 @@ MonoBehaviour:
   m_Name: _intArrSaveRecursiveDefault
   m_EditorClassIdentifier: 
   value:
-    data: 00000000020000000000000003000000
+    data: 000000000200000000000000
   save: 1
   logSave: 0
-  defaultValue: {fileID: 11400000}
+  defaultValue:
+    data: 010000000200000003000000
   guid: b780e9dde68c1f44db8cad88ebd6657f
