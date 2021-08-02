@@ -518,11 +518,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f83024a994dd447bb2ee9dab5c4b6e71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  variables:
+  objectsToInit:
   - {fileID: 11400000, guid: b780e9dde68c1f44db8cad88ebd6657f, type: 2}
-  - {fileID: 11400000, guid: 640365d210e60d44094fe6865ca79e7d, type: 2}
   - {fileID: 11400000, guid: d71efa4e507543842be044c8b5ba24d6, type: 2}
-  - {fileID: 11400000, guid: 59e112292881f0948b0868f1069d7478, type: 2}
+  - {fileID: 11400000, guid: 640365d210e60d44094fe6865ca79e7d, type: 2}
 --- !u!4 &932052708
 Transform:
   m_ObjectHideFlags: 0
