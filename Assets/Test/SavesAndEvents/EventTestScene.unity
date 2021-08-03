@@ -500,7 +500,7 @@ GameObject:
   - component: {fileID: 932052708}
   - component: {fileID: 932052707}
   m_Layer: 0
-  m_Name: savebles
+  m_Name: InitSaveVariables
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -519,9 +519,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectsToInit:
+  - {fileID: 11400000, guid: 640365d210e60d44094fe6865ca79e7d, type: 2}
   - {fileID: 11400000, guid: b780e9dde68c1f44db8cad88ebd6657f, type: 2}
   - {fileID: 11400000, guid: d71efa4e507543842be044c8b5ba24d6, type: 2}
-  - {fileID: 11400000, guid: 640365d210e60d44094fe6865ca79e7d, type: 2}
 --- !u!4 &932052708
 Transform:
   m_ObjectHideFlags: 0
