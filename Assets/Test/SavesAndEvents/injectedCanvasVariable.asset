@@ -13,7 +13,4 @@ MonoBehaviour:
   m_Name: injectedCanvasVariable
   m_EditorClassIdentifier: 
   value: {fileID: 0}
-  save: 0
-  logSave: 0
-  defaultValue: {fileID: 0}
   guid: f88b7a1b351d1334ab21fbd10f1f4e0e

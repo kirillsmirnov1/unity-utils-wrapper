@@ -13,9 +13,5 @@ MonoBehaviour:
   m_Name: _intArr
   m_EditorClassIdentifier: 
   value:
-    data: 00000000020000000000000009000000
-  save: 0
-  logSave: 0
-  defaultValue:
-    data: 010000000200000003000000
+    data: 00000000020000000500000009000000
   guid: b780e9dde68c1f44db8cad88ebd6657f

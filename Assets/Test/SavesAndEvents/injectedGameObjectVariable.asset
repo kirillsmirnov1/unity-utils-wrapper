@@ -13,7 +13,4 @@ MonoBehaviour:
   m_Name: injectedGameObjectVariable
   m_EditorClassIdentifier: 
   value: {fileID: 0}
-  save: 0
-  logSave: 0
-  defaultValue: {fileID: 0}
   guid: ba79368365fa2a4429ed97b58313378b

@@ -13,7 +13,4 @@ MonoBehaviour:
   m_Name: _d_str 3
   m_EditorClassIdentifier: 
   value: don't let me die please
-  save: 0
-  logSave: 0
-  defaultValue: 
   guid: 993862a775680e343a8e15159b1a5193
