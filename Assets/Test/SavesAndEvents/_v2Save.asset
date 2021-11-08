@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: _v2Save
   m_EditorClassIdentifier: 
   value: {x: 4, y: 6}
-  save: 1
+  save: 0
   logSave: 0
   defaultValue: {x: 4, y: 20}
   guid: 640365d210e60d44094fe6865ca79e7d

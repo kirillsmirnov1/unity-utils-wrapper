@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   value:
     data: 00000000020000000000000009000000
-  save: 1
+  save: 0
   logSave: 0
   defaultValue:
     data: 010000000200000003000000
