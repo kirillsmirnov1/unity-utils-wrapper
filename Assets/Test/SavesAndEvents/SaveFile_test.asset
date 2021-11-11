@@ -13,8 +13,12 @@ MonoBehaviour:
   m_Name: SaveFile_test
   m_EditorClassIdentifier: 
   logSave: 1
-  vars:
-  - {fileID: 11400000, guid: 267af6400c9f5a049812559741e4795b, type: 2}
-  - {fileID: 11400000, guid: b780e9dde68c1f44db8cad88ebd6657f, type: 2}
-  - {fileID: 11400000, guid: d71efa4e507543842be044c8b5ba24d6, type: 2}
-  - {fileID: 11400000, guid: 640365d210e60d44094fe6865ca79e7d, type: 2}
+  varRefs:
+  - variable: {fileID: 11400000, guid: 267af6400c9f5a049812559741e4795b, type: 2}
+    defaultValue: {fileID: 0}
+  - variable: {fileID: 11400000, guid: 640365d210e60d44094fe6865ca79e7d, type: 2}
+    defaultValue: {fileID: 0}
+  - variable: {fileID: 11400000, guid: d71efa4e507543842be044c8b5ba24d6, type: 2}
+    defaultValue: {fileID: 0}
+  - variable: {fileID: 11400000, guid: b780e9dde68c1f44db8cad88ebd6657f, type: 2}
+    defaultValue: {fileID: 0}
