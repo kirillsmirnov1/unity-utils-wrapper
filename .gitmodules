@@ -19,3 +19,6 @@
 [submodule "Packages/Joysticks"]
 	path = Packages/Joysticks
 	url = https://github.com/kirillsmirnov1/Joysticks.git
+[submodule "Packages/AdHawk"]
+	path = Packages/AdHawk
+	url = https://github.com/kirillsmirnov1/Ad-Hawk
