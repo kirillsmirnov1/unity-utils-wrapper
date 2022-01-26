@@ -14,6 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   logSave: 1
   varRefs:
+  - variable: {fileID: 11400000, guid: 2654251627c255744b67dd6afe915680, type: 2}
+    defaultValue: {fileID: 11400000, guid: 2654251627c255744b67dd6afe915680, type: 2}
   - variable: {fileID: 11400000, guid: 267af6400c9f5a049812559741e4795b, type: 2}
     defaultValue: {fileID: 0}
   - variable: {fileID: 11400000, guid: 640365d210e60d44094fe6865ca79e7d, type: 2}
