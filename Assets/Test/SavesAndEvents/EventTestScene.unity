@@ -454,7 +454,19 @@ PrefabInstance:
         type: 2}
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
+      propertyPath: variables.Array.data[4].variable
+      value: 
+      objectReference: {fileID: 11400000, guid: 2430040f5d66d344ca308c6f9132da19,
+        type: 2}
+    - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
+        type: 3}
       propertyPath: variables.Array.data[3].profileOverride
+      value: 
+      objectReference: {fileID: 11400000, guid: a20754ffbde03444d8d48cf888168f24,
+        type: 2}
+    - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
+        type: 3}
+      propertyPath: variables.Array.data[4].profileOverride
       value: 
       objectReference: {fileID: 11400000, guid: a20754ffbde03444d8d48cf888168f24,
         type: 2}
