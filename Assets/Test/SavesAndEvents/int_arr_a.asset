@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9680088320bf4fa2a9905f22ad2af76c, type: 3}
-  m_Name: _intArr
+  m_Name: int_arr_a
   m_EditorClassIdentifier: 
   value:
-    data: 00000000020000000500000009000000
-  guid: b780e9dde68c1f44db8cad88ebd6657f
+    data: 0000000000000000000000000000000000000000
+  guid: d94038e87ee95864faa7cb56fd6e4507

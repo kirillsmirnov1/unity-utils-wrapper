@@ -9,8 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 921873d815974236975780263b5e64b4, type: 3}
-  m_Name: floatVar
+  m_Script: {fileID: 11500000, guid: 9680088320bf4fa2a9905f22ad2af76c, type: 3}
+  m_Name: int_arr_c
   m_EditorClassIdentifier: 
-  value: 12.5
-  guid: 2654251627c255744b67dd6afe915680
+  value:
+    data: 00000000
+  guid: a776fb3a4a8ec304d98c73cca4e1c1cc

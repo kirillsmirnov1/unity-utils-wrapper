@@ -396,7 +396,7 @@ PrefabInstance:
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
       propertyPath: variables.Array.size
-      value: 5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
