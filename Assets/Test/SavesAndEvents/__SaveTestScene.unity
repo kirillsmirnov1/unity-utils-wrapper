@@ -396,7 +396,7 @@ PrefabInstance:
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
       propertyPath: variables.Array.size
-      value: 4
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
@@ -432,7 +432,7 @@ PrefabInstance:
         type: 3}
       propertyPath: variables.Array.data[0].variable
       value: 
-      objectReference: {fileID: 11400000, guid: 7172dc3f14c5a1a4bbbcdb68d80f673c,
+      objectReference: {fileID: 11400000, guid: 6e14ef325d750174ba93322c3a711f0b,
         type: 2}
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
@@ -482,6 +482,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Spacing
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8360376812246169096, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
+        type: 3}
+      propertyPath: m_Padding.m_Top
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8360376812246169096, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
+        type: 3}
+      propertyPath: m_Padding.m_Left
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8360376812246169096, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
+        type: 3}
+      propertyPath: m_Padding.m_Right
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 8360376812246169096, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
+        type: 3}
+      propertyPath: m_Padding.m_Bottom
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 8744599975946471355, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
