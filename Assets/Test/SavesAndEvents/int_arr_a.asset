@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: int_arr_a
   m_EditorClassIdentifier: 
   value:
-    data: 00000000000000000000000000000000
+    data: e735bc00c801000015030000f88a0100
   guid: d94038e87ee95864faa7cb56fd6e4507
