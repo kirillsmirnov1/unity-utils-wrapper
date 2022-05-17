@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b78adedf9dbc4bc69d1914ec6348055c, type: 3}
-  m_Name: balanceVariable
+  m_Name: New Int Variable
   m_EditorClassIdentifier: 
-  value: 1000
-  guid: 490ac02fe5dd221428506d729f1c75b8
+  value: 67
+  guid: aa88732686a4689469cd07fb25bc4d40

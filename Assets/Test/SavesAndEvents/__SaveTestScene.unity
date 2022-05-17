@@ -396,7 +396,7 @@ PrefabInstance:
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
       propertyPath: variables.Array.size
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
@@ -432,25 +432,25 @@ PrefabInstance:
         type: 3}
       propertyPath: variables.Array.data[0].variable
       value: 
-      objectReference: {fileID: 11400000, guid: 61627a80121eae548afc2289dafc0eba,
+      objectReference: {fileID: 11400000, guid: 7172dc3f14c5a1a4bbbcdb68d80f673c,
         type: 2}
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
       propertyPath: variables.Array.data[1].variable
       value: 
-      objectReference: {fileID: 11400000, guid: 2654251627c255744b67dd6afe915680,
+      objectReference: {fileID: 11400000, guid: 4b66195e9dee9784b833833f3865ebac,
         type: 2}
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
       propertyPath: variables.Array.data[2].variable
       value: 
-      objectReference: {fileID: 11400000, guid: 9461fae9d33a1eb43b9ab72333ccd25b,
+      objectReference: {fileID: 11400000, guid: aa88732686a4689469cd07fb25bc4d40,
         type: 2}
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
       propertyPath: variables.Array.data[3].variable
       value: 
-      objectReference: {fileID: 11400000, guid: 2430040f5d66d344ca308c6f9132da19,
+      objectReference: {fileID: 11400000, guid: 0f83a256f2aff3c4086bb879fda7352d,
         type: 2}
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
@@ -462,8 +462,7 @@ PrefabInstance:
         type: 3}
       propertyPath: variables.Array.data[3].profileOverride
       value: 
-      objectReference: {fileID: 11400000, guid: a20754ffbde03444d8d48cf888168f24,
-        type: 2}
+      objectReference: {fileID: 0}
     - target: {fileID: 2552472738639055677, guid: 4e865ee38a2cf534aa67ae8fff830fd8,
         type: 3}
       propertyPath: variables.Array.data[4].profileOverride
